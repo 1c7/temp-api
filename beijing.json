@@ -1,0 +1,14 @@
+{
+  data:[
+    {
+      name: 'YOU+国际青年公寓',
+      logo: 'asd',
+      'url': 'https://www.youplus.cc/'
+    },
+    {
+      name: '蘑菇公寓',
+      logo: 'asd',
+      'url': 'http://www.mogoroom.com/index.shtml'
+    }
+  ]
+}
